@@ -483,6 +483,9 @@ P{
 #projects .project-info p{
     color: white;
 }
+#projects .project-info p a{
+    color: white;
+}
 
 #projects .project-img{
     flex-basis: 50%;
